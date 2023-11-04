@@ -1,0 +1,40 @@
+# Carpeta de compilación de C
+bin/
+obj/
+
+# Archivos ejecutables de C
+*.exe
+*.out
+
+# Archivos de registro y datos temporales
+*.log
+*.swp
+*.swo
+
+# Carpeta de clases Java
+bin/
+out/
+
+# Archivos de configuración de Visual Studio Code
+.vscode/
+
+# Dependencias de proyectos Java (puedes personalizar esto según tu entorno)
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos generados por IDEs o editores
+.settings/
+
+# Archivos de configuración específicos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación de C y Java (puedes personalizar esto según tu entorno)
+*.o
+*.class
+
+# Carpeta de dependencias de Maven (si usas Maven)
+target/
+
